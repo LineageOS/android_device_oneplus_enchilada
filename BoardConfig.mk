@@ -15,7 +15,7 @@
 #
 
 # Inherit from oneplus sdm845-common
--include device/oneplus/sdm845-common/BoardConfigCommon.mk
+include device/oneplus/sdm845-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/oneplus/enchilada
 
