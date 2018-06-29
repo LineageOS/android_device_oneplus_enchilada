@@ -189,6 +189,30 @@
     },
     {
       "key": {
+        "uuid": "919f5050_065bcf1e",
+        "filename": "overlay/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 9783
+      },
+      "writtenOn": "2018-06-29T18:36:14Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "cc143772_3c953e02",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 12
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "65b73f1a_e7a105b9",
         "filename": "proprietary-files.txt",
         "patchSetId": 1
@@ -247,6 +271,30 @@
       "side": 1,
       "message": "Nah, it\u0027s to do 2018-2019 in the future",
       "parentUuid": "796295b1_401fd960",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 31
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "08bdf693_b749615f",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 9783
+      },
+      "writtenOn": "2018-06-29T18:36:14Z",
+      "side": 1,
+      "message": "shouldn\u0027t be needed to get added before 2019 then",
+      "parentUuid": "f03b62b8_22a0c783",
       "range": {
         "startLine": 24,
         "startChar": 0,
