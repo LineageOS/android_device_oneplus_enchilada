@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "03bfbf94_d19e33aa",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-06-29T18:31:37Z",
+      "side": 1,
+      "message": "no we don\u0027t",
+      "parentUuid": "4639650a_8999ac3f",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 44
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9fb5317e_62538c22",
         "filename": "lineage.mk",
         "patchSetId": 1
@@ -94,6 +118,30 @@
     },
     {
       "key": {
+        "uuid": "e9bf9a79_45e16c2b",
+        "filename": "lineage.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-06-29T18:31:37Z",
+      "side": 1,
+      "message": "Not used in build",
+      "parentUuid": "9fb5317e_62538c22",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 24
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "6e443c2e_4638ed75",
         "filename": "overlay/lineage-sdk/lineage/res/res/values/config.xml",
         "patchSetId": 1
@@ -105,6 +153,30 @@
       "writtenOn": "2018-06-29T18:27:37Z",
       "side": 1,
       "message": "should probably go to sdm845-common and also be moved to overlay-lineage.",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 12
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cc143772_3c953e02",
+        "filename": "overlay/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-06-29T18:31:37Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "6e443c2e_4638ed75",
       "range": {
         "startLine": 1,
         "startChar": 0,
@@ -151,6 +223,30 @@
       "writtenOn": "2018-06-29T18:27:37Z",
       "side": 1,
       "message": "i think only CM devices need it.",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 31
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f03b62b8_22a0c783",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-06-29T18:31:37Z",
+      "side": 1,
+      "message": "Nah, it\u0027s to do 2018-2019 in the future",
+      "parentUuid": "796295b1_401fd960",
       "range": {
         "startLine": 24,
         "startChar": 0,
