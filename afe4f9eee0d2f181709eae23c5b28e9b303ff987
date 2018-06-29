@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "fe4f43de_3fa715a1",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 9783
+      },
+      "writtenOn": "2018-06-29T18:45:29Z",
+      "side": 1,
+      "message": "wouldn\u0027t sdm-845-common.mk be the most sane?",
+      "parentUuid": "d6492048_d188f831",
+      "range": {
+        "startLine": 39,
+        "startChar": 53,
+        "endLine": 39,
+        "endChar": 59
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4639650a_8999ac3f",
         "filename": "extract-files.sh",
         "patchSetId": 1
@@ -389,6 +413,30 @@
       "side": 1,
       "message": "We\u0027ll forget about it 100%",
       "parentUuid": "08bdf693_b749615f",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 31
+      },
+      "revId": "afe4f9eee0d2f181709eae23c5b28e9b303ff987",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "43b2615a_19927cba",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 9783
+      },
+      "writtenOn": "2018-06-29T18:45:29Z",
+      "side": 1,
+      "message": "probably, lol",
+      "parentUuid": "0ced9f64_e50dde2c",
       "range": {
         "startLine": 24,
         "startChar": 0,
