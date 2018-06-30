@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b08f0758_bb46b07d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-06-30T10:30:07Z",
+      "side": 1,
+      "message": "Doesn\u0027t belong here.",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 1
+      },
+      "revId": "11dd1d7346d7403c78a3c74736368b64df0eb2ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "35537c40_5f9886e2",
+        "filename": "lineage.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-06-30T10:30:07Z",
+      "side": 1,
+      "message": "Is this picked by the build system?",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 37
+      },
+      "revId": "11dd1d7346d7403c78a3c74736368b64df0eb2ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
