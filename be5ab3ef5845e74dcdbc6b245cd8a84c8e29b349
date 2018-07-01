@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d605eee7_fa402462",
+        "filename": "lineage.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-07-01T13:01:51Z",
+      "side": 1,
+      "message": "So contradictory, having these ones here and then having in common tree:\n\n$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 73
+      },
+      "revId": "be5ab3ef5845e74dcdbc6b245cd8a84c8e29b349",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
