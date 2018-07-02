@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d26e54f7_b7e103dc",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 8
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-07-02T00:23:04Z",
+      "side": 1,
+      "message": "This should fail on not being present as well",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 1
+      },
+      "revId": "8c3fa6cfcc8248689dc753bd739366904f484dd3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
