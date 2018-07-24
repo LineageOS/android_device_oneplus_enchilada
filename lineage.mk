@@ -28,7 +28,6 @@ PRODUCT_NAME := lineage_enchilada
 PRODUCT_DEVICE := enchilada
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := ONEPLUS A6003
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
