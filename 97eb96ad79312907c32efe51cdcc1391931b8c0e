@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c687c92d_f201c8b2",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2018-09-03T14:39:36Z",
+      "side": 1,
+      "message": "Those two lack definition, don\u0027t they?",
+      "revId": "97eb96ad79312907c32efe51cdcc1391931b8c0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
