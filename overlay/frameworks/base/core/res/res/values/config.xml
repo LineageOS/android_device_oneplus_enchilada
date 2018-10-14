@@ -102,10 +102,8 @@
          This array should be equal in size to config_screenBrightnessBacklight -->
     <array name="config_screenBrightnessNits">
         <item>2.0482</item>
-        <item>2.543</item>
-        <item>3.0253</item>
-        <item>3.5077</item>
-        <item>4.0824</item>
+        <item>2.7841</item>
+        <item>3.79505</item>
         <item>4.4748</item>
         <item>5.08</item>
         <item>6.4233</item>
@@ -178,76 +176,74 @@
 
          This array should be equal in size to config_screenBrightnessBacklight. -->
     <integer-array name="config_screenBrightnessBacklight">
+        <item>0</item>
+        <item>1</item>
         <item>2</item>
+        <item>3</item>
         <item>4</item>
+        <item>5</item>
         <item>6</item>
+        <item>7</item>
         <item>8</item>
+        <item>9</item>
         <item>10</item>
+        <item>11</item>
         <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
         <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
         <item>20</item>
-        <item>24</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
         <item>40</item>
-        <item>44</item>
-        <item>48</item>
-        <item>52</item>
-        <item>56</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
         <item>60</item>
-        <item>64</item>
-        <item>68</item>
-        <item>72</item>
-        <item>76</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
         <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
         <item>100</item>
+        <item>105</item>
+        <item>110</item>
+        <item>115</item>
         <item>120</item>
+        <item>125</item>
+        <item>130</item>
+        <item>135</item>
         <item>140</item>
+        <item>145</item>
+        <item>150</item>
+        <item>155</item>
         <item>160</item>
-        <item>180</item>
-        <item>200</item>
-        <item>220</item>
-        <item>240</item>
-        <item>260</item>
-        <item>280</item>
-        <item>300</item>
-        <item>320</item>
-        <item>340</item>
-        <item>360</item>
-        <item>380</item>
-        <item>400</item>
-        <item>420</item>
-        <item>440</item>
-        <item>460</item>
-        <item>480</item>
-        <item>500</item>
-        <item>520</item>
-        <item>540</item>
-        <item>560</item>
-        <item>580</item>
-        <item>600</item>
-        <item>620</item>
-        <item>640</item>
-        <item>660</item>
-        <item>680</item>
-        <item>700</item>
-        <item>720</item>
-        <item>740</item>
-        <item>760</item>
-        <item>780</item>
-        <item>800</item>
-        <item>820</item>
-        <item>840</item>
-        <item>860</item>
-        <item>880</item>
-        <item>900</item>
-        <item>920</item>
-        <item>940</item>
-        <item>960</item>
-        <item>980</item>
-        <item>1000</item>
-        <item>1023</item>
+        <item>165</item>
+        <item>170</item>
+        <item>174</item>
+        <item>179</item>
+        <item>184</item>
+        <item>189</item>
+        <item>194</item>
+        <item>199</item>
+        <item>204</item>
+        <item>209</item>
+        <item>214</item>
+        <item>219</item>
+        <item>224</item>
+        <item>229</item>
+        <item>234</item>
+        <item>239</item>
+        <item>244</item>
+        <item>249</item>
+        <item>255</item>
     </integer-array>
 
     <!-- Array of hysteresis constraint values for brightening, represented as tenths of a
