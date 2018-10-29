@@ -110,6 +110,10 @@
         A 24.0, 24.0, 0, 0, 1, 183.0, 0
         Z
     </string>
+     
+    <!-- Whether the always on display mode is available. -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
 
     <!-- Whether the display cutout region of the main built-in display should be forced to
          black in software (to avoid aliasing or emulate a cutout that is not physically existent).
