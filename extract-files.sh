@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2018-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,12 +15,19 @@
 # limitations under the License.
 #
 
+# If we're being sourced by the common script that we called,
+# stop right here. No need to go down the rabbit hole.
+if [ "${BASH_SOURCE[0]}" != "${0}" ]; then
+    return
+fi
+
 set -e
 
+# Required!
 export DEVICE=enchilada
 export DEVICE_COMMON=sdm845-common
 export VENDOR=oneplus
 
 export DEVICE_BRINGUP_YEAR=2018
 
-./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@
+"./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"
