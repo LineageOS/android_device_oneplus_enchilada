@@ -44,7 +44,6 @@ class Light : public ILight {
     Return<void> getSupportedTypes(getSupportedTypes_cb _hidl_cb) override;
 
   private:
-    void handleBacklight(const LightState& state);
     void handleRgb(const LightState& state, size_t index);
 
     std::mutex mLock;
