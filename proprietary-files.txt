@@ -34,6 +34,9 @@ vendor/bin/hw/android.hardware.keymaster@3.0-service-qti
 vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc
 vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so
 
+# ODM feature list
+odm/etc/odm_feature_list
+
 # Sensors
 vendor/etc/sensors/config/sdm845_ak991x_0.json
 vendor/etc/sensors/config/sdm845_bmi160_0.json
