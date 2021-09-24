@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2021 The LineageOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Fingerprint disable path -->
+    <string-array name="fingerprint_disable_paths">
+        <item>/sys/devices/platform/soc/soc:goodix_fp/proximity_state</item>
+    </string-array>
+
+    <!-- Pocket sensor -->
+    <string name="pocket_sensor_type">oneplus.sensor.pocket</string>
+    <item name="pocket_sensor_value" format="float" type="dimen">1.0</item>
+</resources>
