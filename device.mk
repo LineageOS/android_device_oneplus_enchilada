@@ -42,7 +42,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Pocket mode
 PRODUCT_PACKAGES += \
-    OnePlusPocketMode
+    lineage.pocketmode@1.0-service.oneplus_sdm845
 
 # Inherit from oneplus sdm845-common
 $(call inherit-product, device/oneplus/sdm845-common/common.mk)
