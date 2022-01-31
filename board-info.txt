@@ -1,0 +1,1 @@
+require board=sdm845|OnePlus6
