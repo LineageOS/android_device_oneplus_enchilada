@@ -1,0 +1,15 @@
+on boot
+    chown system system /sys/class/leds/red/start_idx
+    chown system system /sys/class/leds/green/start_idx
+    chown system system /sys/class/leds/blue/start_idx
+    chown system system /sys/class/leds/red/lut_flags
+    chown system system /sys/class/leds/green/lut_flags
+    chown system system /sys/class/leds/blue/lut_flags
+
+service vendor.light-hal-2-0 /vendor/bin/hw/android.hardware.light@2.0-service.enchilada
+    interface android.hardware.light@2.0::ILight default
+    class hal
+    user system
+    group system
+    # shutting off lights while powering-off
+    shutdown critical
