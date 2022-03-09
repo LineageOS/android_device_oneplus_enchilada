@@ -40,6 +40,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
 
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light@2.0-service.oneplus_sdm845
+
 # Pocket mode
 PRODUCT_PACKAGES += \
     OnePlusPocketMode
