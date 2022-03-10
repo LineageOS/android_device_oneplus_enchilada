@@ -16,6 +16,24 @@
       "message": "Maybe we can move vendor.oneplus.fingerprint.extension@1.0 to common? fajita also needs it",
       "revId": "1c97469b4a76f110b9573ae5e1bdac8d3b6129d8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98669ff5_c3926759",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-03-10T22:57:37Z",
+      "side": 1,
+      "message": "hw/oneplus HAL builds it implicitly thus we don\u0027t have to.",
+      "parentUuid": "8623dbb3_8c5a07c8",
+      "revId": "1c97469b4a76f110b9573ae5e1bdac8d3b6129d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
