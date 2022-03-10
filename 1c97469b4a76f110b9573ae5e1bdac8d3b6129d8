@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8623dbb3_8c5a07c8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16779
+      },
+      "writtenOn": "2022-03-10T22:56:52Z",
+      "side": 1,
+      "message": "Maybe we can move vendor.oneplus.fingerprint.extension@1.0 to common? fajita also needs it",
+      "revId": "1c97469b4a76f110b9573ae5e1bdac8d3b6129d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
