@@ -1,15 +1,15 @@
 # All unpinned blobs below are extracted from OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa
 
 # ACDB
-vendor/odm/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Codec_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_General_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Global_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Handset_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Headset_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
-vendor/odm/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
+odm/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Codec_cal.acdb
+odm/etc/acdbdata/MTP/MTP_General_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Global_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Handset_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Headset_cal.acdb
+odm/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
+odm/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
 
 # Camera
 vendor/lib/camera/oneplus6_vstab_db_0_1080p_video_30fps.config
