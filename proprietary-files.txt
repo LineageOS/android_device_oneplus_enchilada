@@ -21,6 +21,7 @@ vendor/lib/camera/oneplus6_vstab_db_1_720p_video_30fps.config
 vendor/lib/hw/camera.qcom.so
 
 # Fingerprint
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
 vendor/lib64/hw/goodix.fingerprint.sdm845.so:vendor/lib64/hw/fingerprint.qcom.so
 vendor/lib64/com.fingerprints.extension@1.0.so
 vendor/lib64/fp_hal_extension.so
