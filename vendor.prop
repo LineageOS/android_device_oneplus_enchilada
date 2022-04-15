@@ -1,2 +1,5 @@
+# Bluetooth
+bluetooth.device.default_name=OnePlus 6
+
 # USB
 vendor.usb.product_string=OnePlus 6
