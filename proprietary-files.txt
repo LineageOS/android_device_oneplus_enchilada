@@ -39,6 +39,7 @@ vendor/etc/sensors/config/sdm845_ak991x_0.json
 vendor/etc/sensors/config/sdm845_bmi160_0.json
 vendor/etc/sensors/config/sdm845_lsm6ds3c_0.json
 vendor/etc/sensors/config/sdm845_stk36xx_0.json
+vendor/etc/sensors/hals.conf
 
 # Touchscreen
 vendor/etc/firmware/tp/fw_synaptics_17819.img
