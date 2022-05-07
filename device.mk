@@ -40,6 +40,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
 
+# Audio
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/default_volume_tables.xml:$(TARGET_COPY_OUT_VENDOR)/etc/default_volume_tables.xml
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service \
