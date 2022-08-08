@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.1-service \
     vendor.oneplus.fingerprint.extension@1.0.vendor
 
 # Lights
