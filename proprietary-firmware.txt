@@ -1,0 +1,20 @@
+# All unpinned blobs below are extracted from OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa
+
+LOGO.img;AB
+abl.img;AB
+aop.img;AB
+bluetooth.img;AB
+cmnlib.img;AB
+cmnlib64.img;AB
+devcfg.img;AB
+dsp.img;AB
+fw_4j1ed.img;AB
+fw_4u1ea.img;AB
+hyp.img;AB
+keymaster.img;AB
+modem.img;AB
+qupfw.img;AB
+storsec.img;AB
+tz.img;AB
+xbl.img;AB
+xbl_config.img;AB
