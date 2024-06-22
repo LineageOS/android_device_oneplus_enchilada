@@ -54,7 +54,7 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.oneplus_sdm845
+    android.hardware.light-service.oneplus_sdm845
 
 # Pocket mode
 PRODUCT_PACKAGES += \
