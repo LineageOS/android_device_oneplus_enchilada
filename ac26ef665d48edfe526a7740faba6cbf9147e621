@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12cfa600_30812dd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16779
+      },
+      "writtenOn": "2024-06-24T10:48:43Z",
+      "side": 1,
+      "message": "My bad, totally forgot enchilada was shipping prebuilt biometrics service :(",
+      "revId": "ac26ef665d48edfe526a7740faba6cbf9147e621",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
