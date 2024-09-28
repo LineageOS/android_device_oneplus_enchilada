@@ -18,7 +18,6 @@ vendor/lib/camera/oneplus6_vstab_db_0_4k_video_30fps.config
 vendor/lib/camera/oneplus6_vstab_db_0_720p_video_30fps.config
 vendor/lib/camera/oneplus6_vstab_db_1_1080p_video_30fps.config
 vendor/lib/camera/oneplus6_vstab_db_1_720p_video_30fps.config
-vendor/lib/hw/camera.qcom.so
 
 # Fingerprint
 vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service:vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service.oneplus
