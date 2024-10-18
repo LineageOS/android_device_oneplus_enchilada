@@ -30,14 +30,12 @@ PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
 PRODUCT_MODEL := ONEPLUS A6003
 
-PRODUCT_SYSTEM_NAME := OnePlus6
-PRODUCT_SYSTEM_DEVICE := OnePlus6
-
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE=OnePlus6 \
-    TARGET_PRODUCT=OnePlus6 \
-    PRIVATE_BUILD_DESC="OnePlus6-user 8.1.0 OPM1.171019.011 273 release-keys"
-
-BUILD_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
+    DeviceName=OnePlus6 \
+    DeviceProduct=OnePlus6 \
+    SystemName=OnePlus6 \
+    SystemDevice=OnePlus6 \
+    BuildDesc="OnePlus6-user 8.1.0 OPM1.171019.011 273 release-keys" \
+    BuildFingerprint=OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
