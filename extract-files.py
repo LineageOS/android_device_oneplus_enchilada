@@ -10,6 +10,7 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
+    'hardware/oneplus',
     'vendor/oneplus/sdm845-common',
 ]
 
@@ -17,6 +18,7 @@ module = ExtractUtilsModule(
     'enchilada',
     'oneplus',
     namespace_imports=namespace_imports,
+    check_elf=True,
     add_firmware_proprietary_file=True,
 )
 
