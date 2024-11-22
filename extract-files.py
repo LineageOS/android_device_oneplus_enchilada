@@ -4,6 +4,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+from extract_utils.fixups_blob import (
+    blob_fixup,
+    blob_fixups_user_type,
+)
 from extract_utils.main import (
     ExtractUtils,
     ExtractUtilsModule,
@@ -14,10 +18,16 @@ namespace_imports = [
     'vendor/oneplus/sdm845-common',
 ]
 
+blob_fixups: blob_fixups_user_type = {
+    'vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.oneplus.rc': blob_fixup()
+        .regex_replace('@2.1-service\n', '@2.1-service.oneplus\n'),
+}  # fmt: skip
+
 module = ExtractUtilsModule(
     'enchilada',
     'oneplus',
     namespace_imports=namespace_imports,
+    blob_fixups=blob_fixups,
     add_firmware_proprietary_file=True,
 )
 
