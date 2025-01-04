@@ -33,8 +33,8 @@ PRODUCT_MODEL := ONEPLUS A6003
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="OnePlus6-user 8.1.0 OPM1.171019.011 273 release-keys" \
-    BuildFingerprint=OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys \
+    BuildDesc="ro.build.description=OnePlus6-user 11   release-keys" \
+    BuildFingerprint=OnePlus/OnePlus6/OnePlus6:11/RKQ1.201217.002/2111252325:user/release-keys \
     DeviceName=OnePlus6 \
     DeviceProduct=OnePlus6 \
     SystemDevice=OnePlus6 \
