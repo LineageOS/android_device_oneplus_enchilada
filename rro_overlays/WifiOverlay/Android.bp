@@ -1,4 +1,0 @@
-runtime_resource_overlay {
-    name: "TargetWifiOverlay",
-    product_specific: true
-}
