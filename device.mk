@@ -33,7 +33,11 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     $(LOCAL_PATH)/overlay/frameworks/base/packages/overlays/NoCutoutOverlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    FrameworksResTarget \
+    NoCutoutOverlay \
+    SettingsProviderResTarget \
+    SystemUIResTarget \
+    WifiResTarget
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
@@ -64,10 +68,6 @@ PRODUCT_COPY_FILES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
-
-# WiFi
-PRODUCT_PACKAGES += \
-    TargetWifiOverlay
 
 # Inherit from oneplus sdm845-common
 $(call inherit-product, device/oneplus/sdm845-common/common.mk)
